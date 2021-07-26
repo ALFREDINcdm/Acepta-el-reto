@@ -32,7 +32,7 @@ public class MensajeSecreto {
         System.out.println(Converter("65666665"));
         System.out.println(Converter("651009766121114111110321091111089746"));
         System.out.println(Converter("77101321031171151169732112114111103114971099711432101110326746"));
-    }
+           }
 
     public static String Converter(String ascci) {
         String result = "";
@@ -53,4 +53,6 @@ public class MensajeSecreto {
 
         return result;
     }
+    
+   
 }
